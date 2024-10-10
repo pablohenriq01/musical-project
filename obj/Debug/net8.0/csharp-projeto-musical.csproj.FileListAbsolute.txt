@@ -12,3 +12,4 @@
 /home/pabloh/Desktop/projects/c#/Alura/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
 /home/pabloh/Desktop/projects/c#/Alura/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
 /home/pabloh/Desktop/projects/c#/Alura/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
+/home/pabloh/Desktop/projects/c#/Alura/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.sourcelink.json
